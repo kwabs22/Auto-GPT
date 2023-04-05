@@ -13,7 +13,15 @@ https://github.com/kwabs22/Auto-GPT/blob/9f57803b15ab91eaf1199bcf3e0fa79814d1871
 Figure where this text comes from as the most important part is the long term memory
 https://github.com/kwabs22/Auto-GPT/blob/9f57803b15ab91eaf1199bcf3e0fa79814d1871a/outputs/logs/message-log-1.txt#L4
 
+# LT Memory?
+Memory creation and mangement below
+https://github.com/kwabs22/Auto-GPT/blob/ee81f549edd391281a856a278ac6ebf0a6eec14c/scripts/commands.py#L179
+
 # Understand api so you can plan new api uses
 
+Controller for functions
+https://github.com/kwabs22/Auto-GPT/blob/ee81f549edd391281a856a278ac6ebf0a6eec14c/scripts/commands.py#L47
 
+Agents Functions
+https://github.com/kwabs22/Auto-GPT/blob/ee81f549edd391281a856a278ac6ebf0a6eec14c/scripts/commands.py#L213
 
