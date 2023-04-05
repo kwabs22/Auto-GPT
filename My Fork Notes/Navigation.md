@@ -14,6 +14,9 @@ Figure where this text comes from as the most important part is the long term me
 https://github.com/kwabs22/Auto-GPT/blob/9f57803b15ab91eaf1199bcf3e0fa79814d1871a/outputs/logs/message-log-1.txt#L4
 
 # LT Memory?
+Memory Command
+https://github.com/kwabs22/Auto-GPT/blob/9f57803b15ab91eaf1199bcf3e0fa79814d1871a/outputs/logs/message-log-1.txt#L20
+
 Memory creation and mangement below
 https://github.com/kwabs22/Auto-GPT/blob/ee81f549edd391281a856a278ac6ebf0a6eec14c/scripts/commands.py#L179
 
