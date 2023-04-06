@@ -8,6 +8,8 @@ https://github.com/kwabs22/Auto-GPT/blob/b9bbf55f82d2513ed6de7ff03b8b3c5b30e45a3
 
 Format of response and the instructions are above it
 https://github.com/kwabs22/Auto-GPT/blob/9f57803b15ab91eaf1199bcf3e0fa79814d1871a/scripts/data/prompt.txt#L44
+
+the resources is a summary of the formatted functions?
 https://github.com/kwabs22/Auto-GPT/blob/9f57803b15ab91eaf1199bcf3e0fa79814d1871a/scripts/data/prompt.txt#L28
 
 Figure where this text comes from as the most important part is the long term memory
